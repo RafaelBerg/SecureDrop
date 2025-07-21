@@ -90,7 +90,7 @@ Este projeto também inclui documentos importantes para consulta:
 
 ## 📸 Imagens e Demonstração
 
-Imagens e vídeos do protótipo serão adicionados em breve para mostrar o funcionamento real da caixa inteligente.
+[🎥 Assista à demonstração no YouTube](https://www.youtube.com/watch?v=gez-uzXpYOM)
 
 ---
 
